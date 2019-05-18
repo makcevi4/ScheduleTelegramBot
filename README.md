@@ -1,5 +1,5 @@
 # Schedule Telegram Bot
-[logo]
+![logo](https://github.com/makcevi4/ScheduleTelegramBot/blob/master/logo.png)
 ## Description
 > Attention! Logging is temporarily disabled in this version. Advanced users can manually enable this feature.
 
